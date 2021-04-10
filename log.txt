@@ -1,0 +1,7 @@
+{"version_code":9999999999,"content":"
+
+<p>Actualización Disponible</p>
+
+<l>Nuevo Sistema de Actualización</li>
+","url":"https://youtube.com/c/NOVUSSAMURAIOFC"
+}
